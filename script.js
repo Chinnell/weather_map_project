@@ -85,7 +85,7 @@ $("document").ready(function(){
        }
       else if(thisTemp > 45){
         console.log("the temp is below 70 but above 45");
-        $("body").css("background-image", "url(https://s-media-cache-ak0.pinimg.com/originals/5f/9f/ae/5f9fae57139482f52e0e05b06a5c7d51.gif)");
+        $("body").css("background-image", "url(http://www.clker.com/cliparts/X/t/c/y/q/f/red-long-sleeve-shirt-md.png)");
        }
       else{
                 console.log("the temp is below 45");
